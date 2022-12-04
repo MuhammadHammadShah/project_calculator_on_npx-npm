@@ -1,0 +1,18 @@
+If you want to run the calculator as CLI calculator
+
+Follow the steps.
+
+1.Open cmd
+
+2. INSTALL 	
+.... npm i sirzia_calculator
+
+3. APPROVE
+press ....  "y"
+
+4. START_USING
+write .... npx sirzia_calculator
+
+
+
+
