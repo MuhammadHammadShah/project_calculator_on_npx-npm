@@ -1,7 +1,7 @@
 # project_calculator_on_npx-npm
 before using write it in cmd step by step
-npm i chalk
-npm i inquirer
+npm i chalk\n
+npm i inquirer\n
 npm i chalk-animation
 npm i @types/inquirer
 npm i @types/chalk
